@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1572314884 source:z:\utsgame\project_uts\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<string>
+	<stdbool.h>
+
